@@ -47,7 +47,8 @@ Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan
 </div> -->
 
 - [ProTrek: Navigating the Protein Universe through Tri-ModalContrastive Learning](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2)
-Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan **Preprint**
+
+Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan *Preprint*
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
