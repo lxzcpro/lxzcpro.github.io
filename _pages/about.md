@@ -24,13 +24,13 @@ My research interest includes AI for Life Science, Computational Biology and Pro
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-<img src="../images/westlake.png" alt="westlake" style="zoom:30%; float: left" />&emsp; - *2023.07 - Present*, Undergraduate in Biological Science, School of Life Science, [Westlake University](https://www.westlake.edu.cn/) . 
+<img src="../images/westlake.png" alt="westlake" style="zoom:20%; float: left" />&emsp; - *2023.07 - Present*, Undergraduate in Biological Science, School of Life Science, [Westlake University](https://www.westlake.edu.cn/). 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.07*: &nbsp;🎉🎉  -->
+# 🔥 News
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2023.07*: &nbsp;🎉🎉 I got accepted to Westlake University as a sophomore in high school.
 
 # 📝 Manuscripts
 <!-- 
@@ -57,6 +57,7 @@ Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2024.08* Gold Medal (Protein Design Track), SynBio Challenges, Shenzhen University of Advanced Technology
+- *2024.06* Best Project Award (Group Leader), CST1000: Introduction to Computer Programming, Westlake University
 
 
 # 💬 Invited Talks
