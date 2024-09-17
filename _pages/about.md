@@ -24,7 +24,7 @@ My research interest includes AI for Life Science, Computational Biology and Pro
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-<img src="../images/westlake.png" alt="westlake" style="zoom:9%; float: left" />&emsp; - *2023.07 - Present*, Undergraduate in Biological Science, School of Life Science, [Westlake University](https://www.westlake.edu.cn/) . 
+<img src="../images/westlake.png" alt="westlake" style="zoom:30%; float: left" />&emsp; - *2023.07 - Present*, Undergraduate in Biological Science, School of Life Science, [Westlake University](https://www.westlake.edu.cn/) . 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
@@ -46,9 +46,8 @@ Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan
 </div>
 </div> -->
 
-- [ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2)
+[1] Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan, **ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**, *bioRxiv, 2023: 2023.05. 10.540147.* [[BioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2)]
 
-Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan *(Preprint)*
 
 # 💻 Interns
 * 2023.08 - Present Research Intern at [Computational and Functional Genomics Lab](https://zhangyxlab.github.io/), School of Life Science, Westlake University, advised by Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ).
