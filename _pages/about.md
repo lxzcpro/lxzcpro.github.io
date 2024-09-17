@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Xuting Zhang, an undergraduate student in Westlake University, majoring Biological Science.
+I am Xuting Zhang, a sophomore in Westlake University.
 
 My research interest includes AI for Life Science, Computational Biology and Protein Design. 
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2023.07 - Present*, School of Life Science, Westlake University. 
+<img src="../images/westlake.png" alt="westlake" style="zoom:9%; float: left" />&emsp; - *2023.07 - Present*, Undergraduate in Biological Science, School of Life Science, [Westlake University](https://www.westlake.edu.cn/) . 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
@@ -32,7 +32,7 @@ My research interest includes AI for Life Science, Computational Biology and Pro
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2023.07*: &nbsp;🎉🎉  -->
 
-# 📝 Publications 
+# 📝 Manuscripts
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,9 +46,14 @@ Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan
 </div>
 </div> -->
 
-- [ProTrek: Navigating the Protein Universe through Tri-ModalContrastive Learning](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2)
+- [ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2)
 
-Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan *Preprint*
+Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan *(Preprint)*
+
+# 💻 Interns
+* 2023.08 - Present Research Intern at [Computational and Functional Genomics Lab](https://zhangyxlab.github.io/), School of Life Science, Westlake University, advised by Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ).
+
+* 2023.09 - 2024.09 Research Intern at [Lab for Representation Learning](https://github.com/westlake-repl/), School of engineering, Westlake University, advised by Prof. [Fajie Yuan](https://fajieyuan.github.io/).
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
