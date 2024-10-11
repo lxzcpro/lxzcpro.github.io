@@ -49,13 +49,17 @@ Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan
 [1] Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan, **ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**, *bioRxiv, 2024: 2024.05.30.596740.* [[BioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2)]
 
 
-# 💻 Interns
-* 2023.08 - Present Research Intern at [Computational and Functional Genomics Lab](https://zhangyxlab.github.io/), School of Life Science, Westlake University, advised by Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ).
+# 💻 Internships
+* 2024.09 - Present Research Intern at [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/), School of Engineering, Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html).
 
-* 2023.09 - 2024.09 Research Intern at [Lab for Representation Learning](https://github.com/westlake-repl/), School of engineering, Westlake University, advised by Prof. [Fajie Yuan](https://fajieyuan.github.io/).
+* 2024.06 - 2024.09 Research Intern at [Computational and Functional Genomics Lab](https://zhangyxlab.github.io/), School of Life Science, Westlake University, advised by Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ).
+
+* 2024.01 - 2024.09 Research Intern at [Lab for Representation Learning](https://github.com/westlake-repl/), School of Engineering, Westlake University, advised by Prof. [Fajie Yuan](https://fajieyuan.github.io/).
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.10* Outstanding Undergraduate Second-Class Scholarship, Westlake University
+- *2024.10* Exploration Award, Westlake University
 - *2024.08* Gold Medal (Protein Design Track), SynBio Challenges, Shenzhen University of Advanced Technology
 - *2024.06* Best Project Award (Group Leader), CST1000: Introduction to Computer Programming, Westlake University
 
