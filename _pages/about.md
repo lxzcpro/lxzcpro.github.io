@@ -43,7 +43,7 @@ My research interest includes Machine Learning, Computational Biology and Protei
 
 # 🎖 Honors and Awards
 
-- *2024.10* Outstanding Undergraduate Second-Class Scholarship, Westlake University
+- *2024.10* Outstanding Undergraduate Second-Class Scholarship (Top 15%), Westlake University
 - *2024.10* Exploration Award (For Undergraduate Academic Innovation), Westlake University
 - *2024.08* Gold Medal (Protein Design Track), SynBio Challenges, Shenzhen University of Advanced Technology
 - *2024.06* Best Project Award (Group Leader), CST1000: Introduction to Computer Programming, Westlake University
