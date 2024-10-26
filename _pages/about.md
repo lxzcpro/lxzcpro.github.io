@@ -34,13 +34,15 @@ My research interest includes Machine Learning, Computational Biology and Protei
 
 
 # 💻 Internships
-* 2024.09 - Present Research Intern at [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/), School of Engineering, Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html).
 
-* 2024.06 - 2024.09 Research Intern at [Computational and Functional Genomics Lab](https://zhangyxlab.github.io/), School of Life Science, Westlake University, advised by Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ).
+* 2024.09 - Present Research Intern at [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/), School of Engineering, Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html) and Research Assistant Professor Dr. Li Chen.
 
-* 2024.01 - 2024.09 Research Intern at [Lab for Representation Learning](https://github.com/westlake-repl/), School of Engineering, Westlake University, advised by Prof. [Fajie Yuan](https://fajieyuan.github.io/).
+* 2024.06 - 2024.09 Research Intern at [Computational and Functional Genomics Lab](https://zhangyxlab.github.io/), School of Life Science, Westlake University, advised by Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ) and Ph.D Student Zhuojie Su.
+
+* 2024.01 - 2024.09 Research Intern at [Lab for Representation Learning](https://github.com/westlake-repl/), School of Engineering, Westlake University, advised by Prof. [Fajie Yuan](https://fajieyuan.github.io/) and Ph.D Student Jin Su.
 
 # 🎖 Honors and Awards
+
 - *2024.10* Outstanding Undergraduate Second-Class Scholarship, Westlake University
 - *2024.10* Exploration Award (For Undergraduate Academic Innovation), Westlake University
 - *2024.08* Gold Medal (Protein Design Track), SynBio Challenges, Shenzhen University of Advanced Technology
