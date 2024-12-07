@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Xuting Zhang, a sophomore in Westlake University, advised by Prof. Jianyang Zeng and Prof. Yanxiao Zhang.
+Hi! I am Xuting Zhang, a sophomore in Westlake University, co-advised by Prof. Jianyang Zeng and Prof. Yanxiao Zhang.
 
 My research interest includes Machine Learning, Computational Biology and Protein Design. 
 
@@ -32,14 +32,16 @@ My research interest includes Machine Learning, Computational Biology and Protei
 
 [1] Jin Su, Xibin Zhou, **Xuting Zhang**, Fajie Yuan, **ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**, *bioRxiv, 2024: 2024.05.30.596740.* [[BioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2)]
 
+[2] Jin Su, Zhikai Li, ..., **The OPMC**, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan, **SaprotHub: Making Protein Modeling Accessible to All Biologists**, *bioRxiv, 2024: 2024.05.24.595648.* [[bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v1)]
+
 
 # 💻 Internships
 
 * 2024.09 - Present Research Intern at [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/), School of Engineering, Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html) and Research Assistant Professor Dr. Li Chen.
 
-* 2024.06 - 2024.09 Research Intern at [Computational and Functional Genomics Lab](https://zhangyxlab.github.io/), School of Life Science, Westlake University, advised by Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ) and Ph.D Student Zhuojie Su.
+* 2024.06 - 2024.09 Research Intern at [Computational and Functional Genomics Lab](https://zhangyxlab.github.io/), School of Life Science, Westlake University, advised by Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ)
 
-* 2024.01 - 2024.09 Research Intern at [Lab for Representation Learning](https://github.com/westlake-repl/), School of Engineering, Westlake University, advised by Prof. [Fajie Yuan](https://fajieyuan.github.io/) and Ph.D Student Jin Su.
+* 2024.01 - 2024.09 Research Intern at [Lab for Representation Learning](https://github.com/westlake-repl/), School of Engineering, Westlake University, advised by Prof. [Fajie Yuan](https://fajieyuan.github.io/)
 
 # 🎖 Honors and Awards
 
