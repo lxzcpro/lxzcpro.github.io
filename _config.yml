@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuting Zhang"
-description              : 
+description              : "Biological Science Undergraduate"
 repository               : "lxzcpro/lxzcpro.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xuting Zhang"
   avatar           : "images/avatar.jpg"
-  bio              : "Biological Science Undergraduate Student at Westlake University"
+  bio              : "Westlake University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
