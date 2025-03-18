@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Xuting Zhang, a sophomore in Westlake University, advised by Prof. Jianyang Zeng. Previously, in my freshmen year, I was lucky to work under the supervision of Prof. Fajie Yuan for developing large-scale protein language models and Prof. Yanxiao Zhang for aging by analyzing single cell data of mice.
+Hi! I am Xuting Zhang, a sophomore at Westlake University, advised by Prof. Jianyang Zeng. Previously, in my freshmen year, I was lucky to work under the supervision of Prof. Fajie Yuan for developing large-scale protein language models and Prof. Yanxiao Zhang for aging research by analyzing single cell RNA-seq data of mice.
 
 I mainly focus on the intersection of machine learning and biology in a broad scope. My research interest includes developing multi-omics single cell models, protein language models, and utiliziing them on downstream tasks such as protein-protein interactions, and de novo design proteins.
 
