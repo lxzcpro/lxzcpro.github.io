@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Xuting Zhang, a sophomore at Westlake University, advised by Prof. Jianyang Zeng. Previously, in my freshmen year, I was lucky to work under the supervision of Prof. Fajie Yuan for developing large-scale protein language models and Prof. Yanxiao Zhang for aging research by analyzing single cell RNA-seq data of mice.
+Hi! I am Xuting Zhang, a sophomore at Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). Previously, in my freshmen year, I was lucky to work under the supervision of Prof. [Fajie Yuan](https://fajieyuan.github.io/) for developing large-scale protein language models and Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ) for aging research by analyzing single cell RNA-seq data of mice.
 
-I mainly focus on the intersection of machine learning and biology in a broad scope. My research interest includes developing multi-omics single cell models, protein language models, and utiliziing them on downstream tasks such as protein-protein interactions, and de novo design proteins.
+I mainly focus on the intersection of machine learning and biology in a broad scope. My research focuses on machine learning for biology, particularly developing multi-omics models, protein language models, and applications in protein interactions and design.
 
 Research Interests:
-- Machine Learning Method for Single Cell Analysis
-- Large Language Model for Life Sciences
-- De Novo Design Protein
+- Single-cell Omics Integration and Machine Learning
+- Protein Language Modeling
+- Computational Protein Design and Structure Prediction
 
 # 📖 Educations
 - *2023.07 - Present*, Undergraduate in Biological Science, School of Life Science, [Westlake University](https://www.westlake.edu.cn/). 
-- *2025.08 - 2025.12*, Visiting International Student, Duke University
+- *2025.08 - 2025.12*, Visiting International Student, [Duke University](https://duke.edu/)
 
 
 # 🔥 News
@@ -50,7 +50,7 @@ Jin Su †, Yan He †, Shiyang You †, Shiyu Jiang ‡, Xibin Zhou ‡, **Xuti
 <div class='paper-box-text' markdown="1">
 
 [SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
-Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, Shiyu Jiang, Dacheng Ma, **The OPMC**, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *bioRxiv*, 2024, (In Submission). 
+Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, Shiyu Jiang, Dacheng Ma, **Xuting Zhang**, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *bioRxiv*, 2024, (In Submission). 
 [GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
 </div>
 </div>
@@ -58,7 +58,7 @@ Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, X
 
 # 💻 Internships
 
-* 2024.09 - Present Research Intern at [Artificial Intelligence and Computational Biology (AICB) Lab](https://aicb.lab.westlake.edu.cn/), School of Engineering, Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html)
+* 2024.09 - Present Research Intern at [AICB Lab](https://aicb.lab.westlake.edu.cn/), School of Engineering, Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html)
 
 * 2024.06 - 2024.09 Research Intern at [Computational and Functional Genomics Lab](https://zhangyxlab.github.io/), School of Life Science, Westlake University, advised by Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ)
 
@@ -75,6 +75,10 @@ Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, X
 # 💬 Talks
 - *2024.08*, "Predict Mutational Effect with Protein Language Model", Shenzhen University of Advanced Technology
 
+# 🏃 Miscellaneous
+
+In my free time, I enjoy hiking, traveling, and photography. My favorite musician is JJ Lin. I am also very interested in finance and economics. I once traveled to Nagasaki, Japan, during a regular semester's weekend.
+
 <body>
-  <a href='https://clustrmaps.com/site/1c33m'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=7RSSSMRmjPsqVEJE79rq-tokpPhBdVqgVR2gtcT77aQ&co=2d78ad&ct=ffffff'/></a>
+  <a href='https://clustrmaps.com/site/1c33m'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=7RSSSMRmjPsqVEJE79rq-tokpPhBdVqgVR2gtcT77aQ'/></a>
 </body>

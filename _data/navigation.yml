@@ -21,5 +21,8 @@ main:
   - title: "Talks"
     url: "/#-talks"
 
+  - title: "Miscellaneous"
+    url: "/#-miscellaneous"
+
   # - title: "Internships"
   #   url: "/#-internships"
