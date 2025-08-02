@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Xuting Zhang, a sophomore at Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). Previously, in my freshmen year, I was lucky to work under the supervision of Prof. [Fajie Yuan](https://fajieyuan.github.io/) for developing large-scale protein language models and Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ) for aging research by analyzing single cell RNA-seq data of mice.
+Hi! I am Xuting Zhang, an undergraduate at Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). I am also fortunate to conduct research on drug discovery at Duke University under the supervision of Prof. [Rohit Singh](https://biostat.duke.edu/profile/rohit-singh). Previously, during my freshman year, I had the valuable opportunity to work with Prof. [Fajie Yuan](https://fajieyuan.github.io/) on developing large-scale protein language models, and with Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ) on aging research through the analysis of single-cell RNA-seq data from mice.
 
-I mainly focus on the intersection of machine learning and biology in a broad scope. My research focuses on machine learning for biology, particularly developing multi-omics models, protein language models, and applications in protein interactions and design.
+My research interests lie at the intersection of machine learning and biology. I primarily focus on developing novel computational methods for biological discovery, which includes building multi-omics models and protein language models for applications in protein interaction and design. Additionally, I am passionate about developing new algorithms for single-cell and spatial transcriptomics and leveraging them for clinical data analysis.
 
 Research Interests:
-- Single-cell Omics Integration and Machine Learning
-- Protein Language Modeling
-- Computational Protein Design and Structure Prediction
+- Spatial Transcriptomics Algorithm Development and Clinical Data Analysis
+- Computational Protein Design and Optimization
+- AI-driven Drug Discovery and Target Identification
+- Single-cell Multi-omics Integration and Analysis
 
 # 📖 Educations
 - *2023.07 - Present*, Undergraduate in Biological Science, School of Life Science, [Westlake University](https://www.westlake.edu.cn/). 
-- *2025.08 - 2025.12*, Visiting International Student, [Duke University](https://duke.edu/)
+- *2025.08 - 2025.12*, Visiting International Student, Trinity College of Arts & Sciences, [Duke University](https://duke.edu/)
 
 
 # 🔥 News
@@ -39,8 +40,8 @@ Research Interests:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/protrek.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2.abstract)
-Jin Su †, Yan He †, Shiyang You †, Shiyu Jiang ‡, Xibin Zhou ‡, **Xuting Zhang**, Yuxuan Wang, Igor Tolstoy, Hongyuan Lu, Xing Chang, Fajie Yuan. *bioRxiv*, 2024, (In Submission).
+[ProTrek: Illuminating the Protein Universe with Tri-Modal Language Models](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2.abstract)
+Jin Su †, Yan He †, Shiyang You †, Shiyu Jiang ‡, Xibin Zhou ‡, **Xuting Zhang**, Yuxuan Wang, Igor Tolstoy, Hongyuan Lu, Xing Chang, Fajie Yuan. *bioRxiv*, 2024, (Accept in principle).
 [Online Server](http://search-protrek.com/)
 </div>
 </div>
@@ -49,8 +50,8 @@ Jin Su †, Yan He †, Shiyang You †, Shiyu Jiang ‡, Xibin Zhou ‡, **Xuti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/saprothub.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SaprotHub: Making Protein Modeling Accessible to All Biologists](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
-Jin Su, Zhikai Li, Chenchen Han, Yuyang Zhou, Yan He, Junjie Shan, Xibin Zhou, Xing Chang, Shiyu Jiang, Dacheng Ma, **Xuting Zhang**, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *bioRxiv*, 2024, (In Submission). 
+[SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
+Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, **Xuting Zhang**, Yuyang Zhou, Junjie Shan, Xibin Zhou, Xing Chang, Shiyu Jiang, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *bioRxiv*, 2024, (In Submission).
 [GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
 </div>
 </div>
