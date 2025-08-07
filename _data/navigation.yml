@@ -9,8 +9,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Manuscripts"
-    url: "/#-manuscripts"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Internships"
     url: "/#-internships" 
