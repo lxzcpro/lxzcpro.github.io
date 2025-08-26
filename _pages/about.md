@@ -64,7 +64,8 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, **Xuting Zhang**, Yuyang Zh
 <div class='paper-box-text' markdown="1">
 
 [STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v1)
-Lei Hu †, Shichen Zhang †, Xuting Zhang †, Yihai Luo †, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu, Jianyang Zeng. *BioRxiv*, 2025.
+Lei Hu †, Shichen Zhang †, **Xuting Zhang †**, Yihai Luo †, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu, Jianyang Zeng. *BioRxiv*, 2025.
+[Tutorials](https://starnet-tutorials.readthedocs.io/en/latest/)
 </div>
 </div>
 
