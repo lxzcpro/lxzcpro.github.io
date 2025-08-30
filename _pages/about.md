@@ -69,14 +69,14 @@ Lei Hu †, Shichen Zhang †, **Xuting Zhang †**, Yihai Luo †, Haoteng Gu, 
 </div>
 </div>
 
-
+<!-- 
 # 💻 Internships
 
 * 2024.09 - Present Research Intern at [AICB Lab](https://aicb.lab.westlake.edu.cn/), School of Engineering, Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html)
 
 * 2024.06 - 2024.09 Research Intern at [Computational and Functional Genomics Lab](https://zhangyxlab.github.io/), School of Life Science, Westlake University, advised by Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ)
 
-* 2024.01 - 2024.09 Research Intern at [Lab for Representation Learning](https://github.com/westlake-repl/), School of Engineering, Westlake University, advised by Prof. [Fajie Yuan](https://fajieyuan.github.io/)
+* 2024.01 - 2024.09 Research Intern at [Lab for Representation Learning](https://github.com/westlake-repl/), School of Engineering, Westlake University, advised by Prof. [Fajie Yuan](https://fajieyuan.github.io/) -->
 
 # 🎖 Honors and Awards
 
