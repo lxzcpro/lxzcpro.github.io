@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Xuting Zhang, an third-year undergraduate at Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). I am also fortunate to conduct research on drug discovery at Duke University under the supervision of Prof. [Rohit Singh](https://biostat.duke.edu/profile/rohit-singh). Previously, during my freshman year, I had the valuable opportunity to work with Prof. [Fajie Yuan](https://fajieyuan.github.io/) on developing large-scale protein language models, and with Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ) on aging research through the analysis of single-cell RNA-seq data from mice.
+Hi! I am Xuting Zhang, a third-year undergraduate at Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). I am also fortunate to conduct research on drug discovery at Duke University under the supervision of Prof. [Rohit Singh](https://biostat.duke.edu/profile/rohit-singh). Previously, during my freshman year, I had the valuable opportunity to work with Prof. [Fajie Yuan](https://fajieyuan.github.io/) on developing large-scale protein language models and with Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ) on aging research through the analysis of single-cell RNA-seq data from mice.
 
-My research interests lie at the **intersection of machine learning and life sciences (AI4Science)**. I primarily focus on developing novel computational methods for biological discovery, which includes building multi-omics models and protein language models for applications in protein interaction and design. Additionally, I am passionate about developing new algorithms for single-cell and spatial transcriptomics and leveraging them for clinical data analysis.
+My research interests lie at the **intersection of machine learning and life sciences (AI4Science)**. I primarily focus on developing novel computational methods for biological discovery, including the construction of multi-omics models and protein language models for applications in protein interaction and design. Additionally, I am passionate about developing new algorithms for single-cell and spatial transcriptomics and leveraging them for clinical data analysis.
 
 Research Interests:
 - Spatial Transcriptomics Algorithm Development and Clinical Data Analysis
@@ -79,7 +79,7 @@ Jin Su †, Yan He †, Shiyang You †, Shiyu Jiang ‡, Xibin Zhou ‡, **Xuti
 <div class='paper-box-text' markdown="1">
 
 [SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
-Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, **Xuting Zhang**, Yuyang Zhou, Junjie Shan, Xibin Zhou, Xing Chang, Shiyu Jiang, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *Nature Biotechnology*, 2025, (Accept in principle).
+Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, **Xuting Zhang**, Yuyang Zhou, Junjie Shan, Xibin Zhou, Xing Chang, Shiyu Jiang, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *Nature Biotechnology*, 2025, (Accepted in principle).
 [GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
 </div>
 </div>
