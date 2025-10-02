@@ -68,7 +68,7 @@ Research Interests:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/protrek.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A tri-modal protein language model enables advanced protein searches](https://www.nature.com/articles/s41587-025-02836-0#Ack1)
+[A tri-modal protein language model enables advanced protein searches](https://www.nature.com/articles/s41587-025-02836-0)
 Jin Su †, Yan He †, Shiyang You †, Shiyu Jiang ‡, Xibin Zhou ‡, **Xuting Zhang**, Yuxuan Wang, Igor Tolstoy, Hongyuan Lu, Xing Chang, Fajie Yuan. *Nature Biotechnology*, 2025.
 [Online Server](http://search-protrek.com/)
 </div>
