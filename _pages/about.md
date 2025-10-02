@@ -69,7 +69,7 @@ Research Interests:
 <div class='paper-box-text' markdown="1">
 
 [A tri-modal protein language model enables advanced protein searches](https://www.nature.com/articles/s41587-025-02836-0#Ack1)
-Jin Su †, Yan He †, Shiyang You †, Shiyu Jiang ‡, Xibin Zhou ‡, **Xuting Zhang**, Yuxuan Wang, Igor Tolstoy, Hongyuan Lu, Xing Chang, Fajie Yuan. *Nature Biotechnology*, 2025, (Accept).
+Jin Su †, Yan He †, Shiyang You †, Shiyu Jiang ‡, Xibin Zhou ‡, **Xuting Zhang**, Yuxuan Wang, Igor Tolstoy, Hongyuan Lu, Xing Chang, Fajie Yuan. *Nature Biotechnology*, 2025.
 [Online Server](http://search-protrek.com/)
 </div>
 </div>
@@ -79,7 +79,7 @@ Jin Su †, Yan He †, Shiyang You †, Shiyu Jiang ‡, Xibin Zhou ‡, **Xuti
 <div class='paper-box-text' markdown="1">
 
 [Democratizing Protein Language Model Training, Sharing and Collaboration](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
-Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, **Xuting Zhang**, Yuyang Zhou, Junjie Shan, Xibin Zhou, Xing Chang, Shiyu Jiang, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *Nature Biotechnology*, 2025, (Accept in principle).
+Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, **Xuting Zhang**, Yuyang Zhou, Junjie Shan, Xibin Zhou, Xing Chang, Shiyu Jiang, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *Nature Biotechnology*, 2025, (Accept).
 [GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
 </div>
 </div>
@@ -90,7 +90,7 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, **Xuting Zhang**, Yuyang Zh
 <div class='paper-box-text' markdown="1">
 
 [STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2)
-Lei Hu †, Shichen Zhang †, **Xuting Zhang †**, Yihai Luo †, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu, Jianyang Zeng. *bioRxiv*, 2025.
+Lei Hu †, Shichen Zhang †, **Xuting Zhang †**, Yihai Luo †, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu, Jianyang Zeng. *bioRxiv*, 2025. (Under Review)
 [Tutorials](https://starnet-tutorials.readthedocs.io/en/latest/)
 </div>
 </div>
