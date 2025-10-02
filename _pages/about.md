@@ -59,8 +59,8 @@ Research Interests:
 
 
 # 🔥 News
-- *2025.08*: "A tri-modal protein language model enables advanced protein searches" is accepted by ***Nature Biotechnology***!
-- *2025.08*: "SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community" is accepted in principle by ***Nature Biotechnology***!
+- *2025.10*: "A tri-modal protein language model enables advanced protein searches" is published at ***Nature Biotechnology***!
+- *2025.09*: "Democratizing Protein Language Model Training, Sharing and Collaboration" is accepted by ***Nature Biotechnology***!
 - *2023.07*: I was admitted to Westlake University during my sophomore year of high school.
 
 # 📝 Publications
@@ -68,7 +68,7 @@ Research Interests:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/protrek.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A tri-modal protein language model enables advanced protein searches](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v2.abstract)
+[A tri-modal protein language model enables advanced protein searches](https://www.nature.com/articles/s41587-025-02836-0#Ack1)
 Jin Su †, Yan He †, Shiyang You †, Shiyu Jiang ‡, Xibin Zhou ‡, **Xuting Zhang**, Yuxuan Wang, Igor Tolstoy, Hongyuan Lu, Xing Chang, Fajie Yuan. *Nature Biotechnology*, 2025, (Accept).
 [Online Server](http://search-protrek.com/)
 </div>
@@ -78,7 +78,7 @@ Jin Su †, Yan He †, Shiyang You †, Shiyu Jiang ‡, Xibin Zhou ‡, **Xuti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/saprothub.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SaprotHub: Democratizing Protein Language Model Training, Sharing and Collaboration for the Biology Community](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
+[Democratizing Protein Language Model Training, Sharing and Collaboration](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5.abstract)
 Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, **Xuting Zhang**, Yuyang Zhou, Junjie Shan, Xibin Zhou, Xing Chang, Shiyu Jiang, Dacheng Ma, The OPMC, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan. *Nature Biotechnology*, 2025, (Accept in principle).
 [GitHub](https://github.com/westlake-repl/SaprotHub?tab=readme-ov-file) | [OPMC](https://theopmc.github.io/)
 </div>
@@ -89,7 +89,7 @@ Jin Su, Zhikai Li, Tianli Tao, Chenchen Han, Yan He, **Xuting Zhang**, Yuyang Zh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/starnet.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v1)
+[STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data](https://www.biorxiv.org/content/10.1101/2025.08.21.671434v2)
 Lei Hu †, Shichen Zhang †, **Xuting Zhang †**, Yihai Luo †, Haoteng Gu, Peng Liu, Sheng Mao, Li Chen, Yuhao Xia, Minghao Yang, Sai Zhang, Yaosen Min, Han Li, Peizhuo Wang, Hongtao Yu, Jianyang Zeng. *bioRxiv*, 2025.
 [Tutorials](https://starnet-tutorials.readthedocs.io/en/latest/)
 </div>
