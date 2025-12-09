@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Third-year undergraduate at Westlake University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: xutzhang-pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +19,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Xuting Zhang, a third-year undergraduate at Westlake University, advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). I am also fortunate to conduct research on drug discovery at Duke University under the supervision of Prof. [Rohit Singh](https://biostat.duke.edu/profile/rohit-singh). Previously, during my freshman year, I had the valuable opportunity to work with Prof. [Fajie Yuan](https://fajieyuan.github.io/) on developing large-scale protein language models, and with Prof. [Yanxiao Zhang](https://scholar.google.com/citations?hl=zh-CN&user=YA5MtwsAAAAJ) on aging research through the analysis of single-cell RNA-seq data from mice.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie at the **intersection of machine learning and life sciences (AI4Science)**. I primarily focus on developing novel computational methods for biological discovery, including the construction of multi-omics models and protein language models for applications in protein interaction and design. Additionally, I am passionate about developing new algorithms for single-cell and spatial transcriptomics and leveraging them for clinical data analysis.
