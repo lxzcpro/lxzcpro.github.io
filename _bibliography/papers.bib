@@ -48,3 +48,21 @@
   bibtex_show={true},
   website={https://starnet-tutorials.readthedocs.io/en/latest/},
 }
+
+@article {Erden2026.01.04.697581,
+	author = {Erden*, Mert and Zhang*, Xuting and Devkota*, Kapil and Singh†, Rohit and Cowen†, Lenore},
+	title = {Learning a PRECISE language for small-molecule binding},
+	elocation-id = {2026.01.04.697581},
+	year = {2026},
+	doi = {10.64898/2026.01.04.697581},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {Virtual screening of billion-scale compound libraries has become feasible through machine learning approaches. In particular, CoNCISE (RECOMB 2025) introduced drug quantization via codebooks, achieving highly scalable and accurate binary predictions. However, drug discovery requires understanding not just whether molecules bind, but where they bind and how to target specific sites. Here, we present PRECISE which leverages CoNCISE{\textquoteright}s quantized small-molecule representations while operating on the target{\textquoteright}s 3D structure as its input. The key innovation of PRECISE is reimagining drug-target interaction as compatibility between quantized drug embeddings and a latent representation of the target{\textquoteright}s surface mesh, enriched with electrostatic and geometric features. PRECISE designs a novel surface representation, interpreted through a geometric deep learning architecture, enabling it to identify binding sites more accurately than state-of-the-art methods (DiffDock-L, Chai, and Boltz-2) while the codebook ensures billion-scale screening capability. Our formulation unlocks zero-shot generalization to complex targets such as metalloproteins and multi-chain complexes. To enable efficient integration with downstream docking workflows, we introduce PRECISE-MCTS, which combines fast PRECISE-based screening with selective Vina docking through an iterative Monte Carlo Tree Search approach. By providing both mechanistic understanding and massive scalability, PRECISE delivers capabilities that were previously mutually exclusive in virtual screening.Competing Interest StatementThe authors have declared no competing interest.},
+	URL = {https://www.biorxiv.org/content/early/2026/01/05/2026.01.04.697581},
+	eprint = {https://www.biorxiv.org/content/early/2026/01/05/2026.01.04.697581.full.pdf},
+	journal = {bioRxiv},
+  abbr={bioRxiv},
+  selected={true},
+  preview={precise.png},
+  bibtex_show={true},
+  code={https://github.com/rohitsinghlab/PRECISE}
+}
