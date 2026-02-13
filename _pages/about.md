@@ -24,6 +24,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Xuting Zhang, a third-year undergraduate at [Westlake University](https://www.westlake.edu.cn/), advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). In Fall 2025, I visited [Duke University](https://duke.edu/) as an exchange student, where I was fortunate to conduct research on **virtual drug screening** under the supervision of Prof. [Rohit Singh](https://biostat.duke.edu/profile/rohit-singh). Previously, during my freshman year, I worked with Prof. [Fajie Yuan](https://fajieyuan.github.io/) on **computational protein modeling**, and with Prof. [Yanxiao Zhang](https://zhangyxlab.github.io/index.html) on aging research through the analysis of single-cell RNA-seq data from mice.
+Hi! I am **Xuting Zhang** (Pronounced: *Shyoo-Ting Jahng*). I am a third-year undergraduate at [Westlake University](https://www.westlake.edu.cn/), advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html).
 
-My research interests lie at the **intersection of machine learning and life sciences (AI4Science)**. I primarily focus on developing novel computational methods for biological discovery, including the construction of multi-omics models and computational protein engineering for applications in protein interaction and design. Additionally, I am passionate about developing new algorithms for single-cell and spatial transcriptomics and leveraging them for clinical data analysis.
+My research interests broadly lie at the intersection of **Machine Learning and Life Sciences (AI4Science)**. I am driven by the goal of applying advanced computational methods to improve human health and biological understanding.
+
+**Molecular Modeling:**
+
+During my exchange at [Duke University](https://duke.edu/) (Fall 2025), I worked with Prof. [Rohit Singh](https://biostat.duke.edu/profile/rohit-singh) on **virtual drug discovery**. I investigated **geometric deep learning** approaches to understand small-molecule binding mechanisms, aiming to facilitate the discovery of new medical therapeutics.
+
+This experience complemented my earlier work at Westlake University with Prof. [Fajie Yuan](https://fajieyuan.github.io/), where I explored **Protein Language Models (PLMs)**. I participated in developing **foundation models** to improve the accuracy of protein analysis, helping the community better understand fundamental biological building blocks.
+
+**Systems Biology:**
+
+Beyond the molecular scale, I am deeply interested in deciphering cellular heterogeneity. I focus on analyzing **single-cell transcriptomics** and **spatial data** to uncover complex gene regulatory networks.
+
+I am currently applying these methods to **clinical datasets** to study disease progression mechanisms. My goal is to bridge the gap between computational algorithms and clinical applications, ultimately contributing to **precision medicine**.
