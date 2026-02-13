@@ -1,15 +1,19 @@
 metadata:
-  last_updated: '2025-12-31'
+  last_updated: '2026-02-06'
 papers:
   mzgtftgAAAAJ:IjCSPb-OGe4C:
-    citations: 37
+    citations: 44
     title: A trimodal protein language model enables advanced protein searches
     year: '2025'
   mzgtftgAAAAJ:UeHWp8X0CEIC:
-    citations: 0
+    citations: 1
     title: STARNet enables spatially resolved inference of gene regulatory networks from spatial multi-omics data
     year: '2025'
+  mzgtftgAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: Learning a PRECISE language for small-molecule binding
+    year: '2026'
   mzgtftgAAAAJ:zYLM7Y9cAGgC:
-    citations: 17
+    citations: 18
     title: Democratizing protein language model training, sharing and collaboration
     year: '2025'
