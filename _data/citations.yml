@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-03-02'
 papers:
   mzgtftgAAAAJ:IjCSPb-OGe4C:
-    citations: 45
+    citations: 44
     title: A trimodal protein language model enables advanced protein searches
     year: '2025'
   mzgtftgAAAAJ:UeHWp8X0CEIC:
@@ -14,6 +14,6 @@ papers:
     title: Learning a PRECISE language for small-molecule binding
     year: '2026'
   mzgtftgAAAAJ:zYLM7Y9cAGgC:
-    citations: 18
+    citations: 21
     title: Democratizing protein language model training, sharing and collaboration
     year: '2025'
