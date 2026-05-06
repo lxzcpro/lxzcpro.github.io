@@ -9,9 +9,7 @@ FROM ruby:slim
 
 ENV DEBIAN_FRONTEND noninteractive
 
-LABEL authors="Amir Pourmand,George Araújo" \
-      description="Docker image for al-folio academic template" \
-      maintainer="Amir Pourmand"
+LABEL description="Docker image for Xuting Zhang's personal website"
 
 # uncomment these if you are having this issue with the build:
 # /usr/local/bundle/gems/jekyll-4.3.4/lib/jekyll/site.rb:509:in `initialize': Permission denied @ rb_sysopen - /srv/jekyll/.jekyll-cache/.gitignore (Errno::EACCES)
@@ -25,14 +23,12 @@ RUN apt-get update -y && \
         build-essential \
         curl \
         git \
-        imagemagick \
         inotify-tools \
         locales \
         nodejs \
         procps \
         python3-pip \
-        zlib1g-dev && \
-    pip --no-cache-dir install --upgrade --break-system-packages nbconvert
+        zlib1g-dev
 
 # clean up
 RUN apt-get clean && \
@@ -53,8 +49,7 @@ ENV EXECJS_RUNTIME=Node \
 # create a directory for the jekyll site
 RUN mkdir /srv/jekyll
 
-# copy the Gemfile and Gemfile.lock to the image
-ADD Gemfile.lock /srv/jekyll
+# copy the Gemfile to the image
 ADD Gemfile /srv/jekyll
 
 # set the working directory

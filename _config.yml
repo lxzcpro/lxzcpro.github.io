@@ -10,10 +10,8 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Biological Science Undergraduate | Computational Biology
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Computational Biology # add your own keywords or leave empty
+  Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: computational biology, machine learning, genomics, epigenomics, single-cell transcriptomics, spatial transcriptomics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -26,14 +24,6 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
-
-# repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_trophies:
-  enabled: true
-  theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -62,8 +52,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -85,8 +75,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Xuting Zhang # blog_name will be displayed in your blog page
+blog_description: Notes on computational biology and machine learning
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -134,8 +124,6 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
-    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -158,23 +146,18 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
-  - FAQ.md
   - Gemfile
   - Gemfile.lock
-  - INSTALL.md
   - LICENSE
-  - lighthouse_results/
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
-  - readme_preview/
+  - requirements.txt
   - vendor
 keep_files:
   - CNAME
@@ -187,7 +170,6 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
@@ -332,7 +314,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enable only when ImageMagick's `convert` is available locally/CI
   widths:
     - 480
     - 800
@@ -360,7 +342,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
@@ -371,7 +353,7 @@ enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
-enable_project_categories: true # enables categorization of projects into multiple categories
+enable_project_categories: false # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.

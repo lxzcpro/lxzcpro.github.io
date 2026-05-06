@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
+description: Selected publications and preprints by Xuting Zhang in computational biology, machine learning, protein modeling, and regulatory genomics.
 nav: true
 nav_order: 2
 ---
