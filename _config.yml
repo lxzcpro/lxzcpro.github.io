@@ -169,7 +169,6 @@ plugins:
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
-  - jekyll-imagemagick
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
