@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Third-year undergraduate at Westlake University
+subtitle: Final-year undergraduate at Westlake University
 
 profile:
   align: right
@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am **Xuting Zhang** (pronounced: *Shyoo-Ting Jahng*), a third-year undergraduate in **Biological Science** at [Westlake University](https://en.westlake.edu.cn/), advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). I also spent the Fall 2025 semester as an exchange student at [Duke University](https://duke.edu/).
+Hi! I am **Xuting Zhang** (pronounced *Shyoo-Ting Jahng*), a final-year undergraduate in **Biological Science** at [Westlake University](https://en.westlake.edu.cn/), advised by Prof. [Jianyang Zeng](https://en.westlake.edu.cn/faculty/jianyang-zeng.html). I am currently a visiting undergraduate research fellow at Harvard University's [Department of Stem Cell and Regenerative Biology](https://hscrb.harvard.edu/) and the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). In Fall 2025, I was an exchange student at [Duke University](https://duke.edu/).
 
-My research focuses on developing interpretable machine learning methods for **single-cell and spatial multi-omics**, with an emphasis on regulatory genomics and disease-associated cell states. In Prof. Zeng's group, I work on inferring spatially resolved **gene regulatory networks** and interpreting disease-associated tissue organization. I am especially interested in models that connect molecular regulation, cell-state transitions, local cell-cell signaling, and clinical or phenotypic outcomes.
-
-My previous work spans multiple biological scales. I first worked on **protein language models** with Prof. [Fajie Yuan](https://fajieyuan.github.io/), contributing to protein retrieval benchmarking and tools for protein language model training. At Duke, I worked with Prof. [Rohit Singh](https://biostat.duke.edu/profile/rohit-singh) on machine learning for protein-ligand binding and **virtual screening**. These experiences shaped my broader goal of building computational models whose representations are both predictive and biologically interpretable.
+I develop interpretable machine learning methods for **single-cell and spatial multi-omics**, focusing on gene regulatory networks and disease-associated tissue organization. My previous research includes **protein language models** with Prof. [Fajie Yuan](https://fajieyuan.github.io/) and protein–ligand binding and **virtual screening** with Prof. [Rohit Singh](https://biostat.duke.edu/profile/rohit-singh).
