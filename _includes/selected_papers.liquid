@@ -1,3 +1,7 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  <h3 class="publication-section-title">peer-reviewed</h3>
+  {% bibliography --group_by none --query @*[selected=true && status=published]* %}
+
+  <h3 class="publication-section-title">preprints</h3>
+  {% bibliography --group_by none --query @*[selected=true && status=preprint]* %}
 </div>

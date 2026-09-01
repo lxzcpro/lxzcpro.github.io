@@ -230,6 +230,106 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+@media (max-width: 575.98px) {
+  .profile {
+    float: none !important;
+    width: min(68%, 240px);
+    margin: 0 auto 1.25rem !important;
+  }
+}
+
+// Research overview
+
+.research-overview {
+  clear: both;
+  padding-top: 0.5rem;
+
+  .research-current {
+    padding: 0.15rem 0 0.2rem 1rem;
+    border-left: 3px solid var(--global-theme-color);
+
+    h3 {
+      margin: 0.25rem 0 0.45rem;
+      font-size: 1.15rem;
+    }
+
+    p {
+      max-width: 46rem;
+      margin-bottom: 0.6rem;
+      color: var(--global-text-color-light);
+      line-height: 1.55;
+    }
+  }
+
+  .research-kicker,
+  .research-earlier-label {
+    color: var(--global-theme-color);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.055em;
+    text-transform: uppercase;
+  }
+
+  .research-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    font-size: 0.82rem;
+    font-weight: 500;
+
+    a::after {
+      content: " ↗";
+    }
+  }
+
+  .research-earlier {
+    display: grid;
+    grid-template-columns: 6.5rem minmax(0, 1fr);
+    gap: 1rem;
+    align-items: baseline;
+    margin-top: 1rem;
+    padding-top: 0.85rem;
+    border-top: 1px solid var(--global-divider-color);
+
+    p {
+      margin: 0;
+      color: var(--global-text-color-light);
+      font-size: 0.9rem;
+      line-height: 1.55;
+    }
+  }
+}
+
+.publication-legend {
+  margin: -0.35rem 0 0.75rem;
+  color: var(--global-text-color-light);
+  font-size: 0.78rem;
+}
+
+.publication-section-title {
+  margin: 1.35rem 0 0.65rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  color: var(--global-text-color-light);
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.publications > .publication-section-title:first-child {
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 575.98px) {
+  .research-overview .research-earlier {
+    display: block;
+
+    .research-earlier-label {
+      display: block;
+      margin-bottom: 0.35rem;
+    }
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
@@ -415,23 +515,23 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
 
     a {
       img {
-        width: 3.2rem;
-        height: 3.2rem;
-        margin-bottom: 1rem;
+        width: 2.1rem;
+        height: 2.1rem;
+        margin-bottom: 0.65rem;
       }
 
       svg {
-        width: 3.5rem;
-        height: 4rem;
-        margin-bottom: 0.5rem;
+        width: 2.25rem;
+        height: 2.5rem;
+        margin-bottom: 0.35rem;
 
         image {
-          width: 3.5rem;
-          height: 3.5rem;
+          width: 2.25rem;
+          height: 2.25rem;
         }
       }
 
@@ -807,7 +907,20 @@ footer.sticky-bottom {
         }
       }
 
+      .publication-actions {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 0.5rem 1rem;
+        margin-top: 0.35rem;
+      }
+
       .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.35rem;
+
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
@@ -828,8 +941,35 @@ footer.sticky-bottom {
       }
 
       .badges {
-        padding-bottom: 0.5rem;
-        span {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-left: auto;
+
+        &:empty {
+          display: none;
+        }
+
+        a.scholar-citations {
+          display: inline-flex;
+          align-items: center;
+          gap: 0.35rem;
+          padding: 0.24rem 0.55rem;
+          color: var(--global-text-color-light);
+          border: 1px solid var(--global-divider-color);
+          border-radius: 999px;
+          font-size: 0.75rem;
+          line-height: 1;
+          white-space: nowrap;
+
+          &:hover {
+            color: var(--global-theme-color);
+            border-color: var(--global-theme-color);
+            text-decoration: none;
+          }
+        }
+
+        > span {
           display: inline-block;
           color: $black-color;
           height: 100%;
@@ -839,6 +979,17 @@ footer.sticky-bottom {
           &:hover {
             text-decoration: underline;
           }
+        }
+      }
+
+      @media (max-width: 575.98px) {
+        .publication-actions {
+          align-items: flex-start;
+        }
+
+        .badges {
+          width: 100%;
+          margin-left: 0;
         }
       }
 

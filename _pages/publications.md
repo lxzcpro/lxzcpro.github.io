@@ -12,9 +12,14 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
+{% include publication_legend.liquid %}
 
 <div class="publications">
 
-{% bibliography %}
+<h2 class="publication-section-title">peer-reviewed</h2>
+{% bibliography --group_by none --query @*[status=published]* %}
+
+<h2 class="publication-section-title">preprints</h2>
+{% bibliography --group_by none --query @*[status=preprint]* %}
 
 </div>
