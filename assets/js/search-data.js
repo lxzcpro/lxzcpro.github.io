@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Academic CV for Xuting Zhang, undergraduate student in biological science and computational biology at Westlake University.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "news-a-tri-modal-protein-language-model-enables-advanced-protein-searches-is-published-at-nature-biotechnology",
           title: '“A tri-modal protein language model enables advanced protein searches” is published at Nature...',
           description: "",
