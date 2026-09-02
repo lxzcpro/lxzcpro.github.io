@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-02'
 papers:
   mzgtftgAAAAJ:IjCSPb-OGe4C:
     citations: 66
@@ -18,6 +18,6 @@ papers:
     title: Learning a PRECISE language for small-molecule binding
     year: '2026'
   mzgtftgAAAAJ:zYLM7Y9cAGgC:
-    citations: 49
+    citations: 51
     title: Democratizing protein language model training, sharing and collaboration
     year: '2025'
